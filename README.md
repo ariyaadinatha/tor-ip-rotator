@@ -30,7 +30,7 @@ pip install -r requirements.txt
 3. Configure the interval in the `config.ini` file or provide it as an input when prompted.
 4. Run the script:
 ```sh
-python3 rotate_ip.py
+python3 autorotate.py
 ```
 
 ## Configuration
