@@ -43,6 +43,3 @@ interval = 60 # Default time interval
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## Contact
-For any questions or support, please contact [your email/contact info].
